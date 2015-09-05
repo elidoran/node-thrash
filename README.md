@@ -65,12 +65,12 @@ or does what you specify it will do.
 
 Overview:
 
-1. it accepts the function and the thrash specification
-2. it reads the input specifications and gets input generators for them
-3. it tests all permutations of the default inputs
-4. then it begins generating random values which match valid inputs
-5. then it generates invalid values. it uses permutations of valid/invalid
-6. it then reports all results, statistics, and closes
+1. accepts the function and the thrash specification
+2. reads the input specifications and gets input generators for them
+3. tests all permutations of the default inputs
+4. begins generating random values which match valid inputs
+5. generates invalid values. it uses permutations of valid/invalid together
+6. reports all results, statistics, and closes
 
 Single Test:
 
