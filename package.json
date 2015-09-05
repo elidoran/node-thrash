@@ -1,0 +1,11 @@
+{
+  "name": "thrash",
+  "version": "0.1.0",
+  "description": "Tests functions by generating inputs and validating outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Doran <eli+npm@elidoran.com>",
+  "license": "MIT"
+}
